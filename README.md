@@ -1,12 +1,24 @@
-<img 
-  src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" 
-  alt="Animated GIF" 
-  height="300" 
-  style="display: block; margin-left: auto; margin-right: auto;" 
-/>
+<div style={{ display: "flex", alignItems: "center", gap: "2rem", maxWidth: "800px", margin: "auto" }}>
+  {/* Left Side: Image */}
+  <div style={{ flex: "1" }}>
+    <img
+      src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"
+      alt="Animated GIF"
+      style={{ width: "100%", maxWidth: "300px", borderRadius: "12px" }}
+    />
+  </div>
 
-<h1 align="center">Hi 👋, I'm Kumar Shreyash</h1>
-<h3 align="center">Passionate Full Stack Developer from India</h3>
+  {/* Right Side: Intro */}
+  <div style={{ flex: "1", textAlign: "left" }}>
+    <h1>Hi 👋, I'm Kumar Shreyash</h1>
+    <h3>Passionate Full Stack Developer from India</h3>
+    <p>
+      I love turning ideas into reality with clean, efficient code. When I’m not coding,
+      you’ll find me exploring new tech, sipping coffee, or sneaking in a quick snack 🍕.
+      Always eager to collaborate and learn!
+    </p>
+  </div>
+</div>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
