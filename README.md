@@ -1,4 +1,4 @@
-
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Animated GIF" />
 <h1 align="center">Hi 👋, I'm Kumar Shreyash</h1>
 <h3 align="center">Passionate Full Stack Developer from India</h3>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kumar-shreyash.github.io/Portfolio/](https://kumar-shreyash.github.io/Portfolio/)
 
-- 💬 Ask me about **Node.js**
+- 💬 Ask me about **Debugging & Problem Solving**
 
 - 📫 How to reach me **shreyash.sinha35@gmail.com**
 
