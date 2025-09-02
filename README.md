@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kumar-shreyash.github.io/Portfolio/](https://kumar-shreyash.github.io/Portfolio/)
 
-- 💬 Ask me about **Node.js**
+- 💬 Ask me about **Web Development and anime**
 
 - 📫 How to reach me **shreyash.sinha35@gmail.com**
 
